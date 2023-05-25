@@ -1,0 +1,189 @@
+.white a {
+  color: rgb(255, 255, 255);
+}
+
+.img50 {
+  width: 50px;
+}
+
+.img150 {
+  width: 200px;
+}
+
+.fs50 {
+  font-size: 50px
+}
+
+.rodape {
+  background-color: #000000;
+  color: white;
+}
+
+.rodape {
+  background-color: #000000;
+  color: white;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.850);
+}
+
+.navbar .button {
+  background-color: rgba(0, 0, 0, 0.850);
+}
+
+.navbar:hover {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+button {
+  background-color: #26004C;
+}
+
+p {
+  color: rgb(27, 27, 27);
+}
+
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: radial-gradient(circle at 50% -20.71%, #f1ffff 0, #f0ffff 8.33%, #efffff 16.67%, #efffff 25%, #eefffe 33.33%, #ecf5f4 41.67%, #eaeaea 50%, #e7dfe2 58.33%, #e3d5dc 66.67%, #dfcdd7 75%, #dac5d4 83.33%, #d4bed2 91.67%, #ceb9d1 100%);
+}
+
+.mb-3 {
+  text-align: center;
+}
+
+/* textarea {} */
+
+.d-grid .btn {
+  background-color: rgba(0, 0, 0, 0.850);
+}
+
+.btn:hover {
+  background-color: rgba(166, 163, 163, 0.85);
+}
+
+.btn-outline-secondary {
+  background-color: rgba(0, 0, 0, 0.850);
+  color: white;
+}
+
+.btn-outline-secondary:hover {
+  color: black;
+}
+
+.bg-dark p {
+  color: white;
+}
+
+.fs25 i:hover {
+  color: white;
+}
+
+.bi-star:hover {
+  color: white;
+}
+
+#formLogin button {
+  display: block;
+  margin: 0 auto;
+}
+
+.text-center a {
+  color: rgb(43, 99, 255);
+}
+
+.text-center a:hover {
+  color: rgb(255, 47, 47);
+}
+
+.w-md-50 {
+  width: 40%;
+}
+
+.btn-primary:hover {
+  color: black;
+}
+
+.mb-3.mt-3 p {
+  color: black;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+button.btn.btn-primary.shadow {
+  background-color: rgba(0, 0, 0, 0.850);
+  color: rgb(255, 255, 255);
+}
+
+button.btn.btn-primary.shadow:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgba(0, 0, 0, 0.850);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.img_evento{
+  /* display: ; */
+  
+}
+
+.container_img:hover .overlay {
+  opacity: 1;
+}
+
+.textinho {
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container_img {
+  position: relative;
+  width:80px ;
+  height:80px;
+  /* width: 50%; */
+}
+.carousel-item a img{
+  margin-top: -20%;
+}
+a{
+  color: rgb(30, 15, 81) ;
+  text-decoration: none;
+}
+.container{
+  background-color: rgba(255, 255, 255, 0.59);
+  padding: 25px;
+}
+
+.pagination .active>.page-link{
+  background-color: #000000 !important;
+  border-color: #0e1012;
+}
+.pagination a{
+  color: black;
+}
+.pagination a:hover{
+  color: rgb(51, 51, 51);
+}
